@@ -1,0 +1,14 @@
+.toti{
+    background-color: #0b0909dd;
+    color: hsl(0, 0%, 100%);
+}
+
+.kiki{
+    background-color: #ffff00;
+}
+
+.toti,
+.kiki{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
